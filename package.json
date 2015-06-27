@@ -1,0 +1,44 @@
+{
+  "name": "access-rule",
+  "version": "1.0.0",
+  "description": "ACL in functional paradigm",
+  "keywords": [
+    "acl",
+    "authorization"
+  ],
+  "homepage": "https://github.com/vslinko/access-rule",
+  "bugs": {
+    "url": "https://github.com/vslinko/access-rule/issues",
+    "email": "vslinko@yahoo.com"
+  },
+  "license": "MIT",
+  "author": {
+    "name": "Vyacheslav Slinko",
+    "email": "vslinko@yahoo.com",
+    "url": "https://twitter.com/vslinko"
+  },
+  "contributors": [],
+  "main": "dist",
+  "bin": {},
+  "repository": {
+    "type": "git",
+    "url": "vslinko/access-rule"
+  },
+  "scripts": {
+    "prepublish": "babel -d dist lib"
+  },
+  "config": {},
+  "dependencies": {},
+  "devDependencies": {
+    "babel": "5.6.14"
+  },
+  "peerDependencies": {},
+  "bundledDependencies": [],
+  "optionalDependencies": {},
+  "engines": {},
+  "os": [],
+  "cpu": [],
+  "preferGlobal": false,
+  "private": false,
+  "publishConfig": {}
+}
