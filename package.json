@@ -1,6 +1,6 @@
 {
   "name": "access-rule",
-  "version": "2.1.0",
+  "version": "3.0.0",
   "description": "ACL in functional paradigm",
   "keywords": [
     "acl",
